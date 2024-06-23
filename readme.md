@@ -1,13 +1,13 @@
 <div align="center">
   <h1>📖 Network Slimming</h1>
-  <p>Optimizing Deep Convolutional Neural Networks(DCNNS)</p>
+  <p>Optimizing deep Convolutional Neural Network</p>
 </div>
 <p align="center">
 </p>
 
 Source code folder [link](https://drive.google.com/drive/folders/1lrY4gBAcqBVyPP3ps7TneOn5UnO9Rnv5?usp=sharing)
 
-Dataset [link](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) 163 MB
+Dataset [link](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)   163 MB
 
 ## Transfer Files to Server
 
