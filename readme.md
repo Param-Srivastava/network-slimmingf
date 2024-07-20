@@ -7,7 +7,7 @@
 
 Source code folder [link](https://drive.google.com/drive/folders/1lrY4gBAcqBVyPP3ps7TneOn5UnO9Rnv5?usp=sharing)
 
-Dataset [link](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)   163 MB
+Dataset [link](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) 163 MB
 
 ## Transfer Files to Server
 
@@ -55,6 +55,7 @@ vim script.sh
 #SBATCH --output=%J.out
 #SBATCH --error=%J.err
 
+ml load conda/4.8.3
 source activate
 conda activate pytorch
 
